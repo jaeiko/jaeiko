@@ -1,5 +1,5 @@
 <!-- header 영역 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello!&fontSize=50&rotate=20&fontAlign=70&fontAlignY=35&desc=I'm%20Kim%20JaeJun&descAlign=70&descAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello!&fontSize=50&rotate=20&fontAlign=70&fontAlignY=35&desc=I'm%20Juni😀&descAlign=70&descAlignY=45)
 
 <!-- 가운데 정렬 -->
 <div align="center">
